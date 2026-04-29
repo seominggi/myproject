@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/image/route": "app/api/image/route.js",
+  "/api/network-ip/route": "app/api/network-ip/route.js",
+  "/mobile-scroll/page": "app/mobile-scroll/page.js",
+  "/mobile-scroll/viewer/page": "app/mobile-scroll/viewer/page.js",
+  "/page": "app/page.js",
+  "/thumbnail-size/page": "app/thumbnail-size/page.js"
+}

@@ -1,0 +1,16 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/mobile-scroll/layout,_N_T_/mobile-scroll/viewer/layout,_N_T_/mobile-scroll/viewer/page,_N_T_/mobile-scroll/viewer"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/mobile-scroll/viewer/__PAGE__",
+    "/mobile-scroll/viewer",
+    "/mobile-scroll",
+    "/_index",
+    "/_head"
+  ]
+}

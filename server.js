@@ -18,7 +18,7 @@ app.get('/api/health', (req, res) => {
 });
 
 // Anything that doesn't match the above, send back the index.html file
-app.get('*', (req, res) => {
+app.get(/.*/, (req, res) => {
   res.sendFile(path.join(__dirname, 'dist', 'index.html'));
 });
 

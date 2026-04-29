@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/api/image/route": "/api/image",
+  "/api/network-ip/route": "/api/network-ip",
+  "/mobile-scroll/page": "/mobile-scroll",
+  "/mobile-scroll/viewer/page": "/mobile-scroll/viewer",
+  "/page": "/",
+  "/thumbnail-size/page": "/thumbnail-size"
+}
